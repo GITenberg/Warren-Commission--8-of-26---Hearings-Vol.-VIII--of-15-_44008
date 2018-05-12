@@ -1,0 +1,29 @@
+_repo: Warren-Commission--8-of-26---Hearings-Vol.-VIII--of-15-_44008
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 44008-h/images/cover.jpg
+creator:
+  author:
+    agent_name: United States. Warren Commission
+    aliases:
+    - Kennedy, The President's Commission on the Assassination of President
+    - Warren Commission (U.S.)
+    - United States. President's Commission on the Assassination of President Kennedy
+    gutenberg_agent_id: '42517'
+    url: http://www.gutenberg.org/2009/agents/42517
+description: ''
+gutenberg_issued: '2013-10-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44008'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Kennedy, John F. (John Fitzgerald), 1917-1963 -- Assassination'
+- !lcc 'E740'
+- !lcsh 'Oswald, Lee Harvey'
+title: 'Warren Commission (08 of 26): Hearings Vol. VIII (of 15)'
+url: http://www.gutenberg.org/ebooks/44008
